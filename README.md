@@ -1,6 +1,6 @@
-# Weekly Report Generator & Team Dashboard
+# RepGen
 
-A full-stack web application for submitting structured weekly reports and manager analytics.
+A full-stack web application for generating structured weekly reports and manager analytics.
 
 ## Features
 
